@@ -1,4 +1,4 @@
-#hey1
+#hey
 def welcome_message():
     """Returns a welcome message string."""
     return "Hello, world!"
