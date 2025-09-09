@@ -1,5 +1,5 @@
 def welcome_message():
-    """Returns a welcome messagse; string."""
+    """Returns a welcome messagseh; string."""
     return "Hello, world!"
 
 def greet_user(name):
